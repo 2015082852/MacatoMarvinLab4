@@ -1,0 +1,79 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="image">
+        <item name="android:background">#B0E2FF</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">242dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:contentDescription">divi</item>
+    </style>
+
+    <style name="title">
+        <item name="android:text">Divisoria Market</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#262626</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginEnd">86dp</item>
+        <item name="android:layout_marginLeft">87dp</item>
+        <item name="android:layout_marginRight">86dp</item>
+        <item name="android:layout_marginStart">87dp</item>
+
+    </style>
+
+    <style name="location">
+        <item name="android:text">Location: Claro M. Recto Ave. | Divisoria, Manila</item>
+        <item name="android:layout_width">324dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#262626</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_marginBottom">7dp</item>
+        <item name="android:layout_marginEnd">42dp</item>
+        <item name="android:layout_marginLeft">42dp</item>
+        <item name="android:layout_marginRight">42dp</item>
+        <item name="android:layout_marginStart">42dp</item>
+    </style>
+
+    <style name="distance">
+        <item name="android:text">Distance from UST: 3.2 km</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#262626</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:layout_marginEnd">129dp</item>
+        <item name="android:layout_marginLeft">42dp</item>
+        <item name="android:layout_marginRight">129dp</item>
+        <item name="android:layout_marginStart">42dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="buttonNext">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:text">Next</item>
+        <item name="android:layout_marginStart">40dp</item>
+    </style>
+
+    <style name="buttonBack">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:text">Back</item>
+        <item name="android:layout_marginStart">40dp</item>
+    </style>
+
+</resources>
